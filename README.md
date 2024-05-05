@@ -1,4 +1,4 @@
 # Tic Tac Toe
 A Simple Tic-Tac-Toe Game in JS.
 
-![Screenshot](https://i.imgur.com/vlK0qpR.png)
+<img src="https://i.imgur.com/vlK0qpR.png" href="https://tic-tac-toe-zeta-lime.vercel.app/">
